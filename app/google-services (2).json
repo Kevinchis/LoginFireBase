@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "414201452325",
+    "project_id": "fir-kotlin-7702b",
+    "storage_bucket": "fir-kotlin-7702b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414201452325:android:587a62b7c32903db746ccc",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414201452325-40stevsv195lt5h8cucm17r1hf7cbjr5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "c0aefac683c48437f079a44b0d3d73348768fe68"
+          }
+        },
+        {
+          "client_id": "414201452325-4o30clav87tb7vkfapii9o4a45jb0in1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbfVQmhoOY-ByO6LuZx69HD0bd3wF_LaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414201452325-4o30clav87tb7vkfapii9o4a45jb0in1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
